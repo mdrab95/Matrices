@@ -1,0 +1,30 @@
+Wynik dodawania macierzy m1 i m2:
+2 1 1 1 
+1 1 2 0 
+1 1 1 2 
+0 2 1 2 
+
+Wynik odejmownia macierzy m1 i m2:
+0 -1 1 1 
+-1 1 0 0 
+-1 1 1 0 
+0 0 -1 0 
+
+Wynik mno�enia macierzy m1 i m2:
+2 2 1 2 
+2 0 1 1 
+2 1 2 2 
+1 1 2 1 
+
+Macierz odwrotna do m1:
+1 1 -2 1 
+-0 1 -1 1 
+0 -0 1 -1 
+-0 -1 1 0 
+
+Macierz M1 po trnasponowaniu:
+1 0 0 0 
+0 1 1 1 
+1 1 1 0 
+1 0 1 1 
+
